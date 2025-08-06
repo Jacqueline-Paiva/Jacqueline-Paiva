@@ -43,7 +43,7 @@ Entre um processo judicial e uma linha de código, escrevo para me lembrar de qu
 ## 📬 Contato
 
 ✉️ jacqueline.paiva@estudante.ifto.edu.br  
-🌐 [jac-paiva.github.io](https://jac-paiva.github.io) *(em construção)*
+🌐 [Jacquelne-Paiva.github.io](https://Jacqueline-Paiva.github.io) *(em construção)*
 
 > “Se ninguém nos ler por curiosidade, que nos leiam por necessidade.  
 > Porque este experimento não é sobre vaidade: é sobre humanidade.”
